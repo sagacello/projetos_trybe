@@ -66,6 +66,8 @@ button {
   border-radius: 5px;
   border: none;
   transition: all 0.2s ease-in-out;
+  margin-left: 3rem;
+  margin-top: 2rem;
 }
 button:focus,
 button:hover {
